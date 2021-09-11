@@ -20,7 +20,7 @@
 * [Survey](https://arxiv.org/pdf/2106.15561.pdf), [talks](https://www.microsoft.com/en-us/research/people/xuta/), and [tutorials](https://tts-tutorial.github.io/ijcai2021/) on TTS influence wide researchers and engineers in TTS community. 
 ### Music Understanding and Generation
 * Publish 10+ papers on top conferences, multiple techniques (SongMASS, StrcutMelody, DeepRapper, XiaoiceSing, and HiFiSinger) integrated in Microsoft Azure and Microsoft Xiaoice for AI music composition. 
-* Systematic research on songwriting, accompaniment and arrangement, singing voice synthesis, music understanding, etc. Keynote speaker in [GAITC 2021](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649469917&idx=1&sn=ec48c8a0272404c1b4ef0f8de47f8897&chksm=82c05a59b5b7d34f984c5af9d98c0aa9734be5e2bf38d79f7375097a10ebc90670fa17266b78&mpshare=1&scene=1&srcid=0720fm9AEjrUKsiVfOR4Mpvd&sharer_sharetime=1626775362351&sharer_shareid=a01699047b4bcfb9becadf44d303d094#rd). Tutorial on AI music composition in ACM MM 2021.   
+* Systematic research on songwriting, accompaniment and arrangement, singing voice synthesis, music understanding, etc. Keynote speaker on [AI music composition](https://mp.weixin.qq.com/s/0ef2Xn7oSGYlip7LEzHXog) at GAITC 2021. Tutorial on AI music composition in ACM MM 2021.   
 
 
 
