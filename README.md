@@ -18,6 +18,7 @@
 * [FastSpeech 1/2](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/) (NeurIPS 2019/ICLR 2021) are one of the most important techniques in TTS community, with totally 700+ citations, widely adopted in academia and industry. Integrated in some popular Github repos, such as ESPNet, NVIDIA Nemo, TensorFlowTTS, Baidu PaddlePaddle Parakeet. Demo by [NVIDIA GTC 2020](https://resource.gtcevent.cn/gtc2020/pdf/CNS20269.pdf). 
 * [Survey](https://arxiv.org/pdf/2106.15561.pdf), [talks](https://www.microsoft.com/en-us/research/people/xuta/), and [tutorials](https://github.com/tts-tutorial/) on TTS influence wide researchers and engineers in TTS community. 
 * [NaturaSpeech](https://arxiv.org/pdf/2205.04421.pdf) achieves human-level quality on text-to-speech synthesis on LJSpeech dataset for the first time. 
+* [DelightfulTTS](https://arxiv.org/pdf/2110.12612.pdf) achieved the best quality in Blizzard Speech Synthesis Challenge 2021.
 * Speech project demo page: https://speechresearch.github.io/, code opensource page: https://github.com/microsoft/NeuralSpeech.
 ### Music Understanding and Generation
 * Publish 10+ papers on top conferences, multiple techniques (SongMASS, TeleMelody, DeepRapper, XiaoiceSing, and HiFiSinger) integrated in Microsoft Azure and Microsoft Xiaoice for AI music composition. 
