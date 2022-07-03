@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xu Tan (谭旭), a Senior Researcher at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/xuta/).
+- 👋 Hi, I’m Xu Tan (谭旭), a Senior Research Manager at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/xuta/).
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP, Speech, AI Music, and data generation.
 - 📫 E-mail: xuta@microsoft.com. Homepage: https://tan-xu.github.io/. 
 
@@ -15,7 +15,7 @@
 * MASS is one of the most impactful models in pre-training, with 600+ citations, top cited papers in ICML 2019. [MPNet](https://arxiv.org/pdf/2004.09297.pdf) (NeurIPS 2020) adopted by [Huggingface](https://huggingface.co/transformers/model_doc/mpnet.html).
 ### Speech Synthesis and Recognition
 * Publish 20+ papers on top conferences, multiple technologies (FastSpeech 1/2, LRSpeech, AdaSpeech 1/2/3, DelightfulTTS, FastCorrect 1/2) deployed in Microsoft Azure TTS and ASR services.  
-* [FastSpeech 1/2](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/) (NeurIPS 2019/ICLR 2021) are one of the most important techniques in TTS community, with totally 700+ citations, widely adopted in academia and industry. Integrated in some popular Github repos, such as ESPNet, NVIDIA Nemo, TensorFlowTTS, Baidu PaddlePaddle Parakeet. Demo by [NVIDIA GTC 2020](https://resource.gtcevent.cn/gtc2020/pdf/CNS20269.pdf). 
+* [FastSpeech 1/2](https://www.microsoft.com/en-us/research/blog/fastspeech-new-text-to-speech-model-improves-on-speed-accuracy-and-controllability/) (NeurIPS 2019/ICLR 2021) are one of the most important techniques in TTS community, with totally 800+ citations, widely adopted in academia and industry. Integrated in some popular Github repos, such as ESPNet, NVIDIA Nemo, TensorFlowTTS, Baidu PaddlePaddle Parakeet. Demo by [NVIDIA GTC 2020](https://resource.gtcevent.cn/gtc2020/pdf/CNS20269.pdf). 
 * [Survey](https://arxiv.org/pdf/2106.15561.pdf), [talks](https://www.microsoft.com/en-us/research/people/xuta/), and [tutorials](https://github.com/tts-tutorial/) on TTS influence wide researchers and engineers in TTS community. 
 * [NaturaSpeech](https://arxiv.org/pdf/2205.04421.pdf) achieves human-level quality on text-to-speech synthesis on LJSpeech dataset for the first time. 
 * [DelightfulTTS](https://arxiv.org/pdf/2110.12612.pdf) achieved the best quality in Blizzard Speech Synthesis Challenge 2021.
