@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xu Tan (谭旭), a Principal Research Manager at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/xuta/).
 - 👀 I’m interested in Deep Learning, NLP, Speech, AI Music, Digital Human, and Data Generation.
-- 📫 E-mail: xuta@microsoft.com. Homepage: https://tan-xu.github.io/. 知乎：https://www.zhihu.com/people/xutan
+- 📫 E-mail: xuta@microsoft.com. Homepage: https://tan-xu.github.io/.
 
 
 ## Research Work
