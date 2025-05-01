@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Xu Tan (谭旭), a Principal Researcher and Research Manager at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/xuta/).
-- 👀 I’m interested in Generative AI, LLMs, Audio (Speech/Music/Sound), and Avatar.
-- 📫 E-mail: xuta@microsoft.com. Homepage: https://scholar.google.com/citations?user=tob-U1oAAAAJ, https://tan-xu.github.io/.
+- 👋 Hi, I’m Xu Tan (谭旭), previously a Principal Researcher and Research Manager at Microsoft Research Asia.
+- 👀 I’m interested in LLMs, multimodality, and generative AI for video and audio.
+- 📫 E-mail: tanxu2012@gmail.com. Homepage: https://scholar.google.com/citations?user=tob-U1oAAAAJ, https://tan-xu.github.io/.
 
 
 
